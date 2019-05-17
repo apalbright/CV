@@ -34,3 +34,12 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+
+# directories to ignore
+
+examples/
+examples
+longer/
+longer
+pre-rmd/
+pre-rmd
