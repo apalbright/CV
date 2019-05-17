@@ -1,0 +1,149 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Alex Albright
+
+jobtitle: "Aspiring Economist, Harvard University"
+address: "Littauer Center · 1805 Cambridge Street · Cambridge, MA 02138"
+#fontawesome: no
+email: apalbright@g.harvard.edu
+web: thelittledataset.com
+#github: apalbright
+#twitter: allbriteallday
+#phone: "917-751-1910"
+updated: yes
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: black
+urlcolor: blue
+---
+
+# Education
+
+*Harvard University*, Cambridge, MA
+
+- Ph.D. in Economics \hfill Expected 2022
+- A.M. in Economics \hfill 2019
+
+*Williams College*, Williamstown, MA
+
+- B.A. with Highest Honors in Economics \& Mathematics \hfill 2014
+
+# Research Interests
+
+- Labor Economics, Law and Economics, Economic History, Social Economics
+
+# Working Papers
+
+- "If You Give a Judge a Risk Score: Evidence from Kentucky Bail Decisions"
+
+- "Uncorking Expert Reviews with Social Media: A Case Study Served with Wine" (with Peter Pedroni and Steve Sheppard)
+
+# Ongoing Projects
+
+- "Examining the Lasting Consequences of the Tulsa Race Riots of 1921" (with Nathan Nunn and James Feigenbaum)
+
+# Awards, Grants, and Fellowships
+
+- Inequality in America Initiative Grant (with James Feigenbaum and Nathan Nunn) \hfill 2019 
+
+- Terence M. Considine Fellow in Law and Economics, Harvard Law School \hfill 2018 - 2019 
+
+- James M. and Cathleen D. Stone Ph.D. Scholar, Harvard Kennedy School \hfill 2018 - Present
+
+- Summer Research and Travel Award, Harvard University \hfill 2018
+
+- Research Scholarship, American Association of Wine Economists \hfill 2018
+
+- Graduate Fellowship, Harvard University \hfill 2016 - Present
+
+- Christophe Baron Prize, American Association of Wine Economists \hfill 2016
+
+- Best Lightning Talk Presenter, Oxford Internet Institute Connected Life Conference \hfill 2015
+
+- Carl Van Duyne Prize in Economics, Williams College \hfill 2014
+
+- Phi Beta Kappa, Williams College \hfill 2014
+
+- Economics Highest Honors, Williams College \hfill 2014
+
+- Economics Department Class of 1960 Scholar, Williams College \hfill 2013 - 2014
+
+- National Merit Finalist \hfill 2010
+
+- Gold Medalist, New York City Math Fair \hfill 2008
+
+# Non-Refereed Publications
+
+- "One Size Does Not Fit All: The Shortcomings of the Mainstream Data Scientist Working for Social Good" (with Sarah Levine). 2015. *Proceedings of the Bloomberg Data for Good Exchange.* 
+
+- "An Investigation of Quality and Hype in the Market for Wine: A Panel SVAR Approach." 2014. *Undergraduate Williams College Economics Honors Thesis.* 
+
+# Popular Writing
+
+- *Quartz.* 2017. "We analyzed every *Modern Love* column from the past 10 years. Here's what we learned about love" (with Emma Pierson). 
+
+- *The New Yorker.* 2015. "Which U.S. State Performs Best in the New Yorker Caption Contest?" (with Bob Mankoff).
+
+# Research and Teaching Experience
+
+*Harvard University*
+
+- Teaching Fellow, *Research in Social, Labor, & Applied Microeconomics* \hfill 2018 - 2019
+
+*Stanford Law School*
+
+- Empirical Research Fellow, Professor John Donohue \hfill 2014 - 2016 
+- Teaching Assistant, *Guns, Drugs, Prisons, and Other Empirical Debates in Law and Policy* \hfill  2014 
+
+*Williams College*
+
+- Research Fellow, Professor Yong Suk Lee \hfill 2013 
+- Research Assistant, Professor Sarah Jacobson \hfill 2013 
+- Teaching Assistant, Calculus I \hfill 2011-2012
+
+# Invited Talks and Presentations
+
+- *2019*: Eighth Meeting for the Society for the Study of Economic Inequality (Paris School of Economics), Harvard *Gov 1005: Data* Guest Speaker, Harvard *Law and Economics Seminar* Guest Speaker 
+- *2018*: `R`-Ladies Invited Talk, American Association of Wine Economists Conference (Cornell)
+
+- *2017*: Enterprise Applications of the `R` Language Conference 
+
+- *2016*: American Association of Wine Economists Conference (Université de Bordeaux)
+
+- *2015*: Connected Life Conference (Oxford University), Bloomberg Data for Good Exchange, Strata+Hadoop World Conference
+
+# Academic Service
+
+- Harvard Grad Women in Economics Tech/Media Manager \hfill 2017 - Present
+
+  - Developer and manager of `harvardgwe.com`
+
+- Harvard Economics Peer Mentor \hfill 2017 - 2018
+
+- MIT INSPIRE Judge \hfill 2017
+
+# Technical Workflow
+
+## R for Everything
+
+- Data prepreparation (cleaning and wrangling) and statistical analysis/exploratory visualization with `R Markdown` (advanced `dplyr` and `ggplot2` package applications)
+
+- Reproducible and replicable presentation and paper generation with `R Markdown` 
+
+- Version control using Git and Github with `Rstudio`
+
+- Website development and management with `R` `blogdown`, Hugo, and Netlify
+
+## Other (non-`R`) Technical Skills
+
+- Stata, \LaTeX, Adobe Photoshop, MS Excel and Powerpoint 
