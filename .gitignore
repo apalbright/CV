@@ -32,6 +32,9 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 
+# ignore project
+CV.Rproj
+
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
 
