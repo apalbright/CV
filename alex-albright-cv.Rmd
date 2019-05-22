@@ -50,9 +50,11 @@ urlcolor: blue
 
 # Ongoing Projects
 
-- "Examining the Lasting Consequences of the Tulsa Race Riots of 1921" (with Nathan Nunn and James Feigenbaum)
+- "Examining the Lasting Consequences of the Tulsa Race Massacre of 1921" (with Nathan Nunn and James Feigenbaum)
 
 # Awards, Grants, and Fellowships
+
+- Law and Economics Fellows Writing Prize, Harvard Law School \hfill 2019
 
 - Inequality in America Initiative Grant (with James Feigenbaum and Nathan Nunn) \hfill 2019 
 
@@ -82,17 +84,17 @@ urlcolor: blue
 
 - Gold Medalist, New York City Math Fair \hfill 2008
 
-# Non-Refereed Publications
+# Publications
+
+*Conference Proceedings*
 
 - "One Size Does Not Fit All: The Shortcomings of the Mainstream Data Scientist Working for Social Good" (with Sarah Levine). 2015. *Proceedings of the Bloomberg Data for Good Exchange.* 
 
-- "An Investigation of Quality and Hype in the Market for Wine: A Panel SVAR Approach." 2014. *Undergraduate Williams College Economics Honors Thesis.* 
+*Popular Writing*
 
-# Popular Writing
+- "We analyzed every *Modern Love* column from the past 10 years. Here's what we learned about love" (with Emma Pierson). 2017. *Quartz.* 
 
-- *Quartz.* 2017. "We analyzed every *Modern Love* column from the past 10 years. Here's what we learned about love" (with Emma Pierson). 
-
-- *The New Yorker.* 2015. "Which U.S. State Performs Best in the New Yorker Caption Contest?" (with Bob Mankoff).
+- "Which U.S. State Performs Best in the New Yorker Caption Contest?" (with Bob Mankoff). 2015. *The New Yorker.*
 
 # Research and Teaching Experience
 
@@ -103,7 +105,7 @@ urlcolor: blue
 *Stanford Law School*
 
 - Empirical Research Fellow, Professor John Donohue \hfill 2014 - 2016 
-- Teaching Assistant, *Guns, Drugs, Prisons, and Other Empirical Debates in Law and Policy* \hfill  2014 
+- Teaching Assistant, *Guns, Drugs, Prisons: Empirical Debates in Law and Policy* \hfill  2014 
 
 *Williams College*
 
