@@ -8,7 +8,7 @@ geometry: margin=1in
 title: "CV"
 author: Alex Albright
 
-jobtitle: "Aspiring Economist, Harvard University"
+jobtitle: "PhD Candidate, Harvard University"
 address: "Littauer Center · 1805 Cambridge Street · Cambridge, MA 02138"
 #fontawesome: no
 email: apalbright@g.harvard.edu
@@ -40,27 +40,29 @@ urlcolor: blue
 
 # Research Interests
 
-- Labor Economics, Law and Economics, Economic History, Social Economics
+- Labor Economics, Economics of Crime, Law and Economics, Economic History
 
 # Working Papers
 
 - "If You Give a Judge a Risk Score: Evidence from Kentucky Bail Decisions"
 
-- "Uncorking Expert Reviews with Social Media: A Case Study Served with Wine" (with Peter Pedroni and Steve Sheppard)
+- "Uncorking Expert Reviews with Social Media: A Case Study Served with Wine" *(with Peter Pedroni and Steve Sheppard)*
 
 # Ongoing Projects
 
-- "Examining the Lasting Consequences of the Tulsa Race Massacre of 1921" (with Nathan Nunn and James Feigenbaum)
+- "Examining the Lasting Consequences of the Tulsa Race Massacre of 1921" *(with Nathan Nunn and James Feigenbaum)*
 
 # Awards, Grants, and Fellowships
 
-- Law and Economics Fellows Writing Prize, Harvard Law School \hfill 2019
-
-- Inequality in America Initiative Grant (with James Feigenbaum and Nathan Nunn) \hfill 2019 
-
-- Terence M. Considine Fellow in Law and Economics, Harvard Law School \hfill 2018 - 2019 
+- Terence M. Considine Fellow in Law and Economics, Harvard Law School \hfill 2018 - 2020 
 
 - James M. and Cathleen D. Stone Ph.D. Scholar, Harvard Kennedy School \hfill 2018 - Present
+
+- Bradley Foundation Grant \hfill 2019
+
+- Law and Economics Fellows Writing Prize, Harvard Law School \hfill 2019
+
+- Inequality in America Initiative Grant *(with James Feigenbaum and Nathan Nunn)* \hfill 2019 
 
 - Summer Research and Travel Award, Harvard University \hfill 2018
 
@@ -70,7 +72,7 @@ urlcolor: blue
 
 - Christophe Baron Prize, American Association of Wine Economists \hfill 2016
 
-- Best Lightning Talk Presenter, Oxford Internet Institute Connected Life Conference \hfill 2015
+- Best Lightning Talk Presenter, Oxford University Connected Life Conference \hfill 2015
 
 - Carl Van Duyne Prize in Economics, Williams College \hfill 2014
 
@@ -100,23 +102,23 @@ urlcolor: blue
 
 *Harvard University*
 
-- Teaching Fellow, *Research in Social, Labor, & Applied Microeconomics* \hfill 2018 - 2019
+- Teaching Fellow for *Research in Social, Labor, & Applied Microeconomics* \hfill 2018 - 2019
 
 *Stanford Law School*
 
-- Empirical Research Fellow, Professor John Donohue \hfill 2014 - 2016 
-- Teaching Assistant, *Guns, Drugs, Prisons: Empirical Debates in Law and Policy* \hfill  2014 
+- Empirical Research Fellow for Professor John Donohue \hfill 2014 - 2016 
+- Teaching Assistant for *Guns, Drugs, Prisons: Empirical Debates in Law and Policy* \hfill  2014 
 
 *Williams College*
 
-- Research Fellow, Professor Yong Suk Lee \hfill 2013 
-- Research Assistant, Professor Sarah Jacobson \hfill 2013 
-- Teaching Assistant, Calculus I \hfill 2011-2012
+- Research Fellow for Professor Yong Suk Lee \hfill 2013 
+- Research Assistant for Professor Sarah Jacobson \hfill 2013 
+- Teaching Assistant for Calculus I \hfill 2011-2012
 
 # Invited Talks and Presentations
 
 - *2019*: Eighth Meeting for the Society for the Study of Economic Inequality (Paris School of Economics), Harvard *Gov 1005: Data* Guest Speaker, Harvard *Law and Economics Seminar* Guest Speaker 
-- *2018*: `R`-Ladies Invited Talk, American Association of Wine Economists Conference (Cornell)
+- *2018*: `R`-Ladies Invited Talk, American Association of Wine Economists Conference (Cornell University)
 
 - *2017*: Enterprise Applications of the `R` Language Conference 
 
@@ -126,9 +128,10 @@ urlcolor: blue
 
 # Academic Service
 
-- Harvard Grad Women in Economics Tech/Media Manager \hfill 2017 - Present
+- Harvard Grad Women in Economics \hfill 2017 - Present
 
-  - Developer and manager of `harvardgwe.com`
+  - Tech/Media Manager (developer of `harvardgwe.com`) \hfill 2018-2019 
+  - Treasurer \hfill 2019-2020
 
 - Harvard Economics Peer Mentor \hfill 2017 - 2018
 
