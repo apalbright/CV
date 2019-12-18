@@ -40,7 +40,7 @@ urlcolor: blue
 
 # Research Interests
 
-- Labor Economics, Economics of Crime, Law and Economics, Economic History
+- Labor Economics, Law and Economics (focus on Criminal Justice), Economic History
 
 # Working Papers
 
@@ -52,7 +52,13 @@ urlcolor: blue
 
 - "Examining the Lasting Consequences of the Tulsa Race Massacre of 1921" *(with Nathan Nunn and James Feigenbaum)*
 
+- "Can Judge Bias Training Reduce Racial Disparities in Bail Decisions?"
+
+- "No Money Bail, No Problems? Evidence from a Pretrial Administrative Release Program"
+
 # Awards, Grants, and Fellowships
+
+- J-PAL Criminal Justice Reform Proposal Development Grant *(with Alley Edlebi)* \hfill 2019 - 2020
 
 - Law and Economics Fellows Writing Prize, Harvard Law School \hfill 2019
 
@@ -60,7 +66,7 @@ urlcolor: blue
 
 - James M. and Cathleen D. Stone Ph.D. Scholar, Harvard Kennedy School \hfill 2018 - Present
 
-- Pershing Square Foundations of Human Behavior Grant *(with James Feigenbaum and Nathan Nunn)* \hfill 2019 
+- Foundations of Human Behavior Initiative Grant *(with James Feigenbaum and Nathan Nunn)* \hfill 2019 
 
 - Inequality in America Initiative Grant *(with James Feigenbaum and Nathan Nunn)* \hfill 2019 
 
@@ -117,7 +123,7 @@ urlcolor: blue
 
 # Invited Talks and Presentations
 
-- *2019*: Eighth Meeting for the Society for the Study of Economic Inequality (Paris School of Economics), Harvard *Gov 1005: Data* Guest Speaker, Harvard *Law and Economics Seminar* Guest Speaker 
+- *2019*: Eighth Meeting for the Society for the Study of Economic Inequality (Paris School of Economics), Harvard *Gov 1005: Data* Guest Speaker (x2), Harvard *Law and Economics Seminar* Guest Speaker 
 - *2018*: `R`-Ladies Invited Talk, American Association of Wine Economists Conference (Cornell University)
 
 - *2017*: Enterprise Applications of the `R` Language Conference 
@@ -130,12 +136,12 @@ urlcolor: blue
 
 - Harvard Grad Women in Economics \hfill 2017 - Present
 
-  - Tech/Media Manager (developer of `harvardgwe.com`) \hfill 2018-2019 
+  - Website Manager (developed `harvardgwe.com`) \hfill 2018-2020 
   - Treasurer \hfill 2019-2020
 
 - Harvard Economics Peer Mentor \hfill 2017 - 2018
 
-- MIT INSPIRE Judge \hfill 2017
+- MIT INSPIRE Competition Judge \hfill 2017
 
 # Technical Workflow
 
