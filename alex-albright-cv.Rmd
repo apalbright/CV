@@ -40,7 +40,7 @@ urlcolor: blue
 
 # Research Interests
 
-- Labor Economics, Law and Economics (focus on Criminal Justice), Economic History
+- Labor Economics, Law and Economics *(focus on Criminal Justice)*, Political Economy
 
 # Working Papers
 
@@ -50,11 +50,11 @@ urlcolor: blue
 
 # Ongoing Projects
 
+- "No Money Bail, No Problems? Evidence from a Pretrial Administrative Release Program"
+
 - "Examining the Lasting Consequences of the Tulsa Race Massacre of 1921" *(with Nathan Nunn and James Feigenbaum)*
 
 - "Can Judge Bias Training Reduce Racial Disparities in Bail Decisions?"
-
-- "No Money Bail, No Problems? Evidence from a Pretrial Administrative Release Program"
 
 # Awards, Grants, and Fellowships
 
@@ -62,7 +62,7 @@ urlcolor: blue
 
 - Law and Economics Fellows Writing Prize, Harvard Law School \hfill 2019
 
-- Terence M. Considine Fellow in Law and Economics, Harvard Law School \hfill 2018 - 2020 
+- Terence M. Considine Fellow in Law and Economics, Harvard Law School \hfill 2018 - Present 
 
 - James M. and Cathleen D. Stone Ph.D. Scholar, Harvard Kennedy School \hfill 2018 - Present
 
@@ -123,33 +123,39 @@ urlcolor: blue
 
 # Invited Talks and Presentations
 
+- *2020*: Annual Meeting of the American Law and Economics Association *(planned)*,  Southern Economic Association (SEA) Annual Conference *(planned)*, Judicial Council of California Research Group Talk, Harvard *Law and Economics Workshop* Guest Speaker 
+
 - *2019*: Eighth Meeting for the Society for the Study of Economic Inequality (Paris School of Economics), Harvard *Gov 1005: Data* Guest Speaker (x2), Harvard *Law and Economics Seminar* Guest Speaker 
 - *2018*: `R`-Ladies Invited Talk, American Association of Wine Economists Conference (Cornell University)
 
-- *2017*: Enterprise Applications of the `R` Language Conference 
+- *2017*: Enterprise Applications of the `R` Language (EARL) Conference 
 
 - *2016*: American Association of Wine Economists Conference (Université de Bordeaux)
 
-- *2015*: Connected Life Conference (Oxford University), Bloomberg Data for Good Exchange, Strata+Hadoop World Conference
+- *2015*: Oxford University Connected Life Conference, Bloomberg Data for Good Exchange, Strata+Hadoop World Conference
+
+# Referee Service
+
+- *Quarterly Journal of Economics*
 
 # Academic Service
 
 - Harvard Grad Women in Economics \hfill 2017 - Present
 
-  - Website Manager (developed `harvardgwe.com`) \hfill 2018-2020 
-  - Treasurer \hfill 2019-2020
+  - Website Manager (developed `harvardgwe.com`) \hfill 2018 - Present 
+  - Treasurer \hfill 2019 - Present
 
 - Harvard Economics Peer Mentor \hfill 2017 - 2018
 
 - MIT INSPIRE Competition Judge \hfill 2017
 
-# Technical Workflow
+# Technical Workflow 
 
 ## R for Everything
 
-- Data prepreparation (cleaning and wrangling) and statistical analysis/exploratory visualization with `R Markdown` (advanced `dplyr` and `ggplot2` package applications)
+- Data prepreparation (cleaning and wrangling) and statistical analysis/exploratory visualization with `R Markdown` (advanced `tidyverse` applications)
 
-- Reproducible and replicable presentation and paper generation with `R Markdown` 
+- Reproducible and replicable presentation/paper generation with `R Markdown` (wrapper for \LaTeX)
 
 - Version control using Git and Github with `Rstudio`
 
@@ -157,4 +163,4 @@ urlcolor: blue
 
 ## Other (non-`R`) Technical Skills
 
-- Stata, \LaTeX, Adobe Photoshop, MS Excel and Powerpoint 
+- Stata, Adobe Photoshop 
