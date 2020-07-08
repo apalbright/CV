@@ -29,67 +29,54 @@ urlcolor: blue
 
 # Education
 
-*Harvard University*, Cambridge, MA
-
-- Ph.D. in Economics \hfill Expected 2022
-- A.M. in Economics \hfill 2019
-
-*Williams College*, Williamstown, MA
-
-- B.A. with Highest Honors in Economics \& Mathematics \hfill 2014
+- Ph.D. Economics, Harvard University \hfill Expected May 2022
+- A.M. Economics, Harvard University  \hfill May 2019
+- B.A. Mathematics & Economics (Highest Honors), Williams College \hfill June 2014
 
 # Research Interests
 
-- Labor Economics, Law and Economics *(focus on Criminal Justice)*, Political Economy
+Labor Economics, Law and Economics, Political Economy, Economic History
 
 # Working Papers
 
-- "If You Give a Judge a Risk Score: Evidence from Kentucky Bail Decisions"
+"If You Give a Judge a Risk Score: Evidence from Kentucky Bail Decisions"
 
-- "Uncorking Expert Reviews with Social Media: A Case Study Served with Wine" *(with Peter Pedroni and Steve Sheppard)*
+"After The Burning: The Economic Effects of the 1921 Tulsa Race Massacre" *(with Nathan Nunn & James Feigenbaum)*
 
-# Ongoing Projects
+"Uncorking Expert Reviews with Social Media: A Case Study Served with Wine" *(with Peter Pedroni & Steve Sheppard)*
 
-- "No Money Bail, No Problems? Evidence from a Pretrial Administrative Release Program"
+# Work in Progress
 
-- "Examining the Lasting Consequences of the Tulsa Race Massacre of 1921" *(with Nathan Nunn and James Feigenbaum)*
+"More Money Bail, More Problems? Evidence from Kentucky's Administrative Release Program"
 
-- "Can Judge Bias Training Reduce Racial Disparities in Bail Decisions?"
+"Can Judge Bias Training Reduce Racial Disparities in Bail Decisions?"
+
+# Invited Talks and Presentations
+
+*2020:* Annual Meeting of the American Law and Economics Association *(accepted)*,  Southern Economic Association (SEA) Annual Conference *(accepted)*, Judicial Council of California Research Seminar, Harvard *Law and Economics Workshop* Guest Speaker 
+
+*2019:* Eighth Meeting for the Society for the Study of Economic Inequality (Paris School of Economics), Harvard *Gov 1005: Data* Guest Speaker (x2), Harvard *Law and Economics Seminar* Guest Speaker 
+
+*2015-2018:* `R`-Ladies Invited Talk, American Association of Wine Economists Conference (Cornell University), Enterprise Applications of the `R` Language (EARL) Conference, American Association of Wine Economists Conference (Université de Bordeaux), Oxford University Connected Life Conference, Bloomberg Data for Good Exchange, Strata+Hadoop World Conference
 
 # Awards, Grants, and Fellowships
 
 - J-PAL Criminal Justice Reform Proposal Development Grant *(with Alley Edlebi)* \hfill 2019 - 2020
-
 - Law and Economics Fellows Writing Prize, Harvard Law School \hfill 2019
-
-- Terence M. Considine Fellow in Law and Economics, Harvard Law School \hfill 2018 - Present 
-
-- James M. and Cathleen D. Stone Ph.D. Scholar, Harvard Kennedy School \hfill 2018 - Present
-
-- Foundations of Human Behavior Initiative Grant *(with James Feigenbaum and Nathan Nunn)* \hfill 2019 
-
-- Inequality in America Initiative Grant *(with James Feigenbaum and Nathan Nunn)* \hfill 2019 
-
+- Terence M. Considine Fellow in Law and Economics, Harvard Law School \hfill 2018 - 2020 
+- James M. and Cathleen D. Stone Ph.D. Scholar, Harvard Kennedy School \hfill 2018 - 2020
+- Foundations of Human Behavior Initiative Grant *(with James Feigenbaum & Nathan Nunn)* \hfill 2019 
+- Inequality in America Initiative Grant *(with James Feigenbaum & Nathan Nunn)* \hfill 2019 
 - Summer Research and Travel Award, Harvard University \hfill 2018
-
 - Research Scholarship, American Association of Wine Economists \hfill 2018
-
 - Graduate Fellowship, Harvard University \hfill 2016 - Present
-
 - Christophe Baron Prize, American Association of Wine Economists \hfill 2016
-
 - Best Lightning Talk Presenter, Oxford University Connected Life Conference \hfill 2015
-
 - Carl Van Duyne Prize in Economics, Williams College \hfill 2014
-
 - Phi Beta Kappa, Williams College \hfill 2014
-
 - Economics Highest Honors, Williams College \hfill 2014
-
 - Economics Department Class of 1960 Scholar, Williams College \hfill 2013 - 2014
-
 - National Merit Finalist \hfill 2010
-
 - Gold Medalist, New York City Math Fair \hfill 2008
 
 # Publications
@@ -109,6 +96,8 @@ urlcolor: blue
 *Harvard University*
 
 - Teaching Fellow for *Research in Social, Labor, & Applied Microeconomics* \hfill 2018 - 2019
+    - Course leader for undergraduate economics thesis writers
+    - Instructor evaluation mean: 4.9/5.0
 
 *Stanford Law School*
 
@@ -121,46 +110,27 @@ urlcolor: blue
 - Research Assistant for Professor Sarah Jacobson \hfill 2013 
 - Teaching Assistant for Calculus I \hfill 2011-2012
 
-# Invited Talks and Presentations
-
-- *2020*: Annual Meeting of the American Law and Economics Association *(planned)*,  Southern Economic Association (SEA) Annual Conference *(planned)*, Judicial Council of California Research Group Talk, Harvard *Law and Economics Workshop* Guest Speaker 
-
-- *2019*: Eighth Meeting for the Society for the Study of Economic Inequality (Paris School of Economics), Harvard *Gov 1005: Data* Guest Speaker (x2), Harvard *Law and Economics Seminar* Guest Speaker 
-- *2018*: `R`-Ladies Invited Talk, American Association of Wine Economists Conference (Cornell University)
-
-- *2017*: Enterprise Applications of the `R` Language (EARL) Conference 
-
-- *2016*: American Association of Wine Economists Conference (Université de Bordeaux)
-
-- *2015*: Oxford University Connected Life Conference, Bloomberg Data for Good Exchange, Strata+Hadoop World Conference
-
 # Referee Service
 
-- *Quarterly Journal of Economics*
+*Quarterly Journal of Economics*
 
-# Academic Service
+# Academic Community Service
 
-- Harvard Grad Women in Economics \hfill 2017 - Present
-
-  - Website Manager (developed `harvardgwe.com`) \hfill 2018 - Present 
-  - Treasurer \hfill 2019 - Present
-
+- Harvard Grad Women in Economics Member \hfill 2017 - Present
+  - Website Manager & Developer: `harvardgwe.com` \hfill 2018 - Present 
+  - Treasurer \hfill 2019 - 2020
 - Harvard Economics Peer Mentor \hfill 2017 - 2018
-
 - MIT INSPIRE Competition Judge \hfill 2017
 
-# Technical Workflow 
+# Technical Skills 
 
-## R for Everything
+**`R` for Everything:** 
 
-- Data prepreparation (cleaning and wrangling) and statistical analysis/exploratory visualization with `R Markdown` (advanced `tidyverse` applications)
+- Data preparation (cleaning & wrangling), visualization, statistical analysis, and econometrics applications with `R` (frequent use of `tidyverse`, `lfe`, & `broom`)
+- Reproducible and replicable presentation/paper generation with `R Markdown` (\LaTeX wrapper)
+- Version control using Git and Github integrated with `Rstudio`
+- Website development and management with `R` `blogdown`, Hugo, Netlify (& occasional HTML code)
 
-- Reproducible and replicable presentation/paper generation with `R Markdown` (wrapper for \LaTeX)
+**Other (non-`R`) Technical Skills:** 
 
-- Version control using Git and Github with `Rstudio`
-
-- Website development and management with `R` `blogdown`, Hugo, and Netlify
-
-## Other (non-`R`) Technical Skills
-
-- Stata, Adobe Photoshop 
+- `STATA`, Adobe Photoshop 
