@@ -49,8 +49,6 @@ Labor Economics, Law and Economics, Political Economy, Economic History
 
 "More Money Bail, More Problems? Evidence from Kentucky's Administrative Release Program"
 
-"Can Judge Bias Training Reduce Racial Disparities in Bail Decisions?"
-
 # Invited Talks and Presentations
 
 *2020:* Annual Meeting of the American Law and Economics Association *(accepted)*,  Southern Economic Association (SEA) Annual Conference *(accepted)*, Judicial Council of California Research Seminar, Harvard *Law and Economics Workshop* Guest Speaker 
@@ -95,7 +93,7 @@ Labor Economics, Law and Economics, Political Economy, Economic History
 
 *Harvard University*
 
-- Teaching Fellow for *Research in Social, Labor, & Applied Microeconomics* \hfill 2018 - 2019
+- Teaching Fellow for *Research in Social/Labor Economics & Applied Microeconomics* \hfill 2018 - 2019
     - Course leader for undergraduate economics thesis writers
     - Instructor evaluation mean: 4.9/5.0
 
@@ -127,8 +125,11 @@ Labor Economics, Law and Economics, Political Economy, Economic History
 **`R` for Everything:** 
 
 - Data preparation (cleaning & wrangling), visualization, statistical analysis, and econometrics applications with `R` (frequent use of `tidyverse`, `lfe`, & `broom`)
+
 - Reproducible and replicable presentation/paper generation with `R Markdown` (\LaTeX wrapper)
+
 - Version control using Git and Github integrated with `Rstudio`
+
 - Website development and management with `R` `blogdown`, Hugo, Netlify (& occasional HTML code)
 
 **Other (non-`R`) Technical Skills:** 
