@@ -35,7 +35,7 @@ urlcolor: blue
 
 # Research Interests
 
-Labor Economics, Law and Economics, Political Economy, Economic History
+Labor Economics, Law and Economics, Inequality, Economic History
 
 # Working Papers
 
@@ -49,9 +49,13 @@ Labor Economics, Law and Economics, Political Economy, Economic History
 
 "More Money Bail, More Problems? Evidence from Kentucky's Administrative Release Program"
 
+"The Short-Run Effects of Judge Bias Training"
+
 # Invited Talks and Presentations
 
-*2020:* Annual Meeting of the American Law and Economics Association *(accepted)*,  Southern Economic Association (SEA) Annual Conference *(accepted)*, Judicial Council of California Research Seminar, Harvard *Law and Economics Workshop* Guest Speaker 
+*2021*: Vancouver School of Economics Economic History Seminar *(virtual)*, NBER Decentralization conference: Mechanism Design for Vulnerable Population *(virtual; discussion lead)* 
+
+*2020:* Annual Meeting of the American Law and Economics Association *(accepted; conference canceled)*,  Southern Economic Association (SEA) Annual Conference, Judicial Council of California Research Seminar, Harvard *Law and Economics Workshop* Guest Speaker 
 
 *2019:* Eighth Meeting for the Society for the Study of Economic Inequality (Paris School of Economics), Harvard *Gov 1005: Data* Guest Speaker (x2), Harvard *Law and Economics Seminar* Guest Speaker 
 
@@ -65,6 +69,7 @@ Labor Economics, Law and Economics, Political Economy, Economic History
 - James M. and Cathleen D. Stone Ph.D. Scholar, Harvard Kennedy School \hfill 2018 - 2020
 - Foundations of Human Behavior Initiative Grant *(with James Feigenbaum & Nathan Nunn)* \hfill 2019 
 - Inequality in America Initiative Grant *(with James Feigenbaum & Nathan Nunn)* \hfill 2019 
+- Research Grant, Bradley Foundation \hfill 2019
 - Summer Research and Travel Award, Harvard University \hfill 2018
 - Research Scholarship, American Association of Wine Economists \hfill 2018
 - Graduate Fellowship, Harvard University \hfill 2016 - Present
@@ -93,6 +98,9 @@ Labor Economics, Law and Economics, Political Economy, Economic History
 
 *Harvard University*
 
+- Teaching Fellow for *Research in Applied Microeconomics & Law and Economics* \hfill 2020 - 2021
+    - Course leader for undergraduate economics thesis writers
+
 - Teaching Fellow for *Research in Social/Labor Economics & Applied Microeconomics* \hfill 2018 - 2019
     - Course leader for undergraduate economics thesis writers
     - Instructor evaluation mean: 4.9/5.0
@@ -110,12 +118,12 @@ Labor Economics, Law and Economics, Political Economy, Economic History
 
 # Referee Service
 
-*Quarterly Journal of Economics*
+*Quarterly Journal of Economics*, *Journal of Urban Economics*
 
 # Academic Community Service
 
 - Harvard Grad Women in Economics Member \hfill 2017 - Present
-  - Website Manager & Developer: `harvardgwe.com` \hfill 2018 - Present 
+  - Website Manager & Developer: `harvardgwe.com` \hfill 2018 - 2020 
   - Treasurer \hfill 2019 - 2020
 - Harvard Economics Peer Mentor \hfill 2017 - 2018
 - MIT INSPIRE Competition Judge \hfill 2017
