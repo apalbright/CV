@@ -39,31 +39,45 @@ urlcolor: blue
 
 # Working Papers
 
-- "If You Give a Judge a Risk Score: Evidence from Kentucky Bail Decisions"
+- "If You Give a Judge a Risk Score"
 
 - "After The Burning: The Economic Effects of the 1921 Tulsa Race Massacre" *(with Nathan Nunn & James Feigenbaum)*
 
 - "Uncorking Expert Reviews with Social Media: A Case Study Served with Wine" *(with Peter Pedroni & Steve Sheppard)*
 
-# Work in Progress
+# In Preparation
 
-- "More Money Bail, More Problems? Evidence from Kentucky's Administrative Release Program"
+- "Pricing Freedom" 
 
-- "The Short-Run Effects of Judge Bias Training"
+- "The Effects of Judge Bias Training"
 
-# Referee Service
+# Conferences and Invited Presentations
 
-- *Quarterly Journal of Economics*, *Journal of Urban Economics*
+- *2021*: Vancouver School of Economics Economic History Seminar *(virtual)*
 
-# Invited Talks and Presentations
-
-- *2021*: Vancouver School of Economics Economic History Seminar *(virtual)*, NBER Decentralization conference: Mechanism Design for Vulnerable Population *(virtual; discussion lead)* 
-
-- *2020:* Annual Meeting of the American Law and Economics Association *(accepted; conference canceled)*,  Southern Economic Association (SEA) Annual Conference, Judicial Council of California Research Seminar, Harvard *Law and Economics Workshop* Guest Speaker 
+- *2020:* Southern Economic Association (SEA) Annual Conference *(virtual)*, Annual Meeting of the American Law and Economics Association *(accepted; conference canceled)*, Judicial Council of California Research Seminar *(virtual)*, Harvard *Law and Economics Workshop* Guest Speaker 
 
 - *2019:* Eighth Meeting for the Society for the Study of Economic Inequality (Paris School of Economics), Harvard *Gov 1005: Data* Guest Speaker (x2), Harvard *Law and Economics Seminar* Guest Speaker 
 
 - *2015-2018:* `R`-Ladies Invited Talk, American Association of Wine Economists Conference (Cornell University), Enterprise Applications of the `R` Language (EARL) Conference, American Association of Wine Economists Conference (Université de Bordeaux), Oxford University Connected Life Conference, Bloomberg Data for Good Exchange, Strata+Hadoop World Conference
+
+# Professional Activities and Service
+
+*Referee Service*
+
+- Quarterly Journal of Economics, Journal of Urban Economics
+
+*Conferences/Seminars*
+
+- Discussion Lead, NBER Decentralization Conference: Mechanism Design for Vulnerable Populations *(2021; scheduled)*
+
+*Academic Community Service*
+
+- Harvard Grad Women in Economics Member \hfill 2017 - Present
+  - Website Manager & Developer: `harvardgwe.com` \hfill 2018 - 2020 
+  - Treasurer \hfill 2019 - 2020
+- Harvard Economics Peer Mentor \hfill 2017 - 2018
+- MIT INSPIRE Competition Judge \hfill 2017
 
 # Awards, Grants, and Fellowships
 
@@ -86,29 +100,21 @@ urlcolor: blue
 - National Merit Finalist \hfill 2010
 - Gold Medalist, New York City Math Fair \hfill 2008
 
-# Research and Teaching Experience
+# Teaching 
 
 *Harvard University*
 
 - Teaching Fellow for *Research in Applied Microeconomics & Law and Economics* \hfill 2020 - 2021
-    - Course leader for undergraduate economics thesis writers
+    - Head of undergraduate economics thesis writer seminar
 
 - Teaching Fellow for *Research in Social/Labor Economics & Applied Microeconomics* \hfill 2018 - 2019
-    - Course leader for undergraduate economics thesis writers
-    - Instructor evaluation mean: 4.9/5.0
+    - Head of undergraduate economics thesis writer seminar (teaching evaluation mean: 4.9/5)
 
 *Stanford Law School*
 
-- Empirical Research Fellow for Professor John Donohue \hfill 2014 - 2016 
 - Teaching Assistant for *Guns, Drugs, Prisons: Empirical Debates in Law and Policy* \hfill  2014 
 
-*Williams College*
-
-- Research Fellow for Professor Yong Suk Lee \hfill 2013 
-- Research Assistant for Professor Sarah Jacobson \hfill 2013 
-- Teaching Assistant for Calculus I \hfill 2011-2012
-
-# Publications
+# General Audience Publications 
 
 *Conference Proceedings*
 
@@ -119,14 +125,6 @@ urlcolor: blue
 - "We analyzed every *Modern Love* column from the past 10 years. Here's what we learned about love" (with Emma Pierson). 2017. *Quartz.* 
 
 - "Which U.S. State Performs Best in the New Yorker Caption Contest?" (with Bob Mankoff). 2015. *The New Yorker.*
-
-# Academic Community Service
-
-- Harvard Grad Women in Economics Member \hfill 2017 - Present
-  - Website Manager & Developer: `harvardgwe.com` \hfill 2018 - 2020 
-  - Treasurer \hfill 2019 - 2020
-- Harvard Economics Peer Mentor \hfill 2017 - 2018
-- MIT INSPIRE Competition Judge \hfill 2017
 
 # Technical Skills 
 
@@ -143,3 +141,9 @@ urlcolor: blue
 **Other (non-`R`) Technical Skills:** 
 
 - `STATA`, Adobe Photoshop 
+
+# Research Assistant (RA) Experience
+
+- Empirical Research Fellow for Professor John Donohue, Stanford Law School \hfill 2014 - 2016 
+- Research Fellow for Professor Yong Suk Lee, Williams College \hfill 2013 
+- Research Assistant for Professor Sarah Jacobson, Williams College \hfill 2013 
