@@ -47,11 +47,11 @@ urlcolor: blue
 
 # In Preparation
 
-- "Pricing Freedom" 
+- "Free To Go: The Effects of Eliminating Financial Bail" 
 
-- "The Effects of Judge Bias Training"
+- "Does Bias Training Change Bail Decisions?"
 
-# Conferences and Invited Presentations
+# Conference Talks and Invited Presentations
 
 - *2021*: Vancouver School of Economics Economic History Seminar *(virtual)*
 
@@ -69,7 +69,8 @@ urlcolor: blue
 
 *Conferences/Seminars*
 
-- Discussion Lead, NBER Decentralization Conference: Mechanism Design for Vulnerable Populations *(2021; scheduled)*
+- Discussion Lead, NBER Decentralization Conference \hfill 2021
+  - Topic: Mechanism Design for Vulnerable Populations
 
 *Academic Community Service*
 
@@ -81,12 +82,13 @@ urlcolor: blue
 
 # Awards, Grants, and Fellowships
 
-- J-PAL Criminal Justice Reform Proposal Development Grant *(with Alley Edlebi)* \hfill 2019 - 2020
+- Certificate of Distinction in Teaching, Harvard Bok Center \hfill 2020
+- J-PAL Criminal Justice Reform Proposal Development Grant *(w/ Alley Edlebi)* \hfill 2019 - 2020
 - Law and Economics Fellows Writing Prize, Harvard Law School \hfill 2019
 - Terence M. Considine Fellow in Law and Economics, Harvard Law School \hfill 2018 - 2020 
 - James M. and Cathleen D. Stone Ph.D. Scholar, Harvard Kennedy School \hfill 2018 - 2020
-- Foundations of Human Behavior Initiative Grant *(with James Feigenbaum & Nathan Nunn)* \hfill 2019 
-- Inequality in America Initiative Grant *(with James Feigenbaum & Nathan Nunn)* \hfill 2019 
+- Foundations of Human Behavior Initiative Grant *(w/ James Feigenbaum & Nathan Nunn)* \hfill 2019 
+- Inequality in America Initiative Grant *(w/ James Feigenbaum & Nathan Nunn)* \hfill 2019 
 - Research Grant, Bradley Foundation \hfill 2019
 - Summer Research and Travel Award, Harvard University \hfill 2018
 - Research Scholarship, American Association of Wine Economists \hfill 2018
@@ -108,7 +110,8 @@ urlcolor: blue
     - Head of undergraduate economics thesis writer seminar
 
 - Teaching Fellow for *Research in Social/Labor Economics & Applied Microeconomics* \hfill 2018 - 2019
-    - Head of undergraduate economics thesis writer seminar (teaching evaluation mean: 4.9/5)
+    - Head of undergraduate economics thesis writer seminar
+    - Teaching evaluation mean: 4.9/5
 
 *Stanford Law School*
 
@@ -130,9 +133,9 @@ urlcolor: blue
 
 **`R` for Everything:** 
 
-- Data preparation (cleaning & wrangling), visualization, statistical analysis, and econometrics applications with `R` (frequent use of `tidyverse`, `lfe`, & `broom`)
+- Data preparation (cleaning & wrangling), visualization, descriptive analysis, and econometrics applications with `R` (frequent use of `tidyverse`, `lfe`, `lubridate`, `broom`, & many more)
 
-- Reproducible and replicable presentation/paper generation with `R Markdown` (\LaTeX wrapper)
+- Reproducible and replicable paper writing with `R Markdown` (\LaTeX wrapper) and slide deck crafting with `xaringan`
 
 - Version control using Git and Github integrated with `Rstudio`
 
@@ -140,7 +143,7 @@ urlcolor: blue
 
 **Other (non-`R`) Technical Skills:** 
 
-- `STATA`, Adobe Photoshop 
+- `Stata`, Adobe Photoshop 
 
 # Research Assistant (RA) Experience
 
