@@ -41,9 +41,9 @@ urlcolor: blue
 
 - "If You Give a Judge a Risk Score"
 
-- "After The Burning: The Economic Effects of the 1921 Tulsa Race Massacre" *(with Nathan Nunn & James Feigenbaum)*
+- "After The Burning: The Economic Effects of the 1921 Tulsa Race Massacre" *(with N. Nunn & J. Feigenbaum)*
 
-- "Uncorking Expert Reviews with Social Media: A Case Study Served with Wine" *(with Peter Pedroni & Steve Sheppard)*
+- "Uncorking Expert Reviews with Social Media: A Case Study Served with Wine" *(with P. Pedroni & S. Sheppard)*
 
 # In Preparation
 
@@ -82,17 +82,17 @@ urlcolor: blue
 
 # Awards, Grants, and Fellowships
 
+- Irving Louis Horowitz Award *(most outstanding project)*, Horowitz Foundation \hfill 2021
+- Horowitz Foundation Dissertation Prize, Horowitz Foundation \hfill 2021
 - Certificate of Distinction in Teaching, Harvard Bok Center \hfill 2020
 - J-PAL Criminal Justice Reform Proposal Development Grant *(w/ Alley Edlebi)* \hfill 2019 - 2020
 - Law and Economics Fellows Writing Prize, Harvard Law School \hfill 2019
 - Terence M. Considine Fellow in Law and Economics, Harvard Law School \hfill 2018 - 2020 
 - James M. and Cathleen D. Stone Ph.D. Scholar, Harvard Kennedy School \hfill 2018 - 2020
-- Foundations of Human Behavior Initiative Grant *(w/ James Feigenbaum & Nathan Nunn)* \hfill 2019 
-- Inequality in America Initiative Grant *(w/ James Feigenbaum & Nathan Nunn)* \hfill 2019 
+- Foundations of Human Behavior Initiative Grant *(w/ J. Feigenbaum & N. Nunn)* \hfill 2019 
+- Inequality in America Initiative Grant *(w/ J. Feigenbaum & N. Nunn)* \hfill 2019 
 - Research Grant, Bradley Foundation \hfill 2019
-- Summer Research and Travel Award, Harvard University \hfill 2018
 - Research Scholarship, American Association of Wine Economists \hfill 2018
-- Graduate Fellowship, Harvard University \hfill 2016 - Present
 - Christophe Baron Prize, American Association of Wine Economists \hfill 2016
 - Best Lightning Talk Presenter, Oxford University Connected Life Conference \hfill 2015
 - Carl Van Duyne Prize in Economics, Williams College \hfill 2014
@@ -102,16 +102,20 @@ urlcolor: blue
 - National Merit Finalist \hfill 2010
 - Gold Medalist, New York City Math Fair \hfill 2008
 
+<!-- - Summer Research and Travel Award, Harvard University \hfill 2018 -->
+<!-- - Graduate Fellowship, Harvard University \hfill 2016 - Present -->
+
 # Teaching 
 
 *Harvard University*
 
 - Teaching Fellow for *Research in Applied Microeconomics & Law and Economics* \hfill 2020 - 2021
     - Head of undergraduate economics thesis writer seminar
+    - Teaching evaluation mean: 4.86/5.00
 
 - Teaching Fellow for *Research in Social/Labor Economics & Applied Microeconomics* \hfill 2018 - 2019
     - Head of undergraduate economics thesis writer seminar
-    - Teaching evaluation mean: 4.9/5
+    - Teaching evaluation mean: 4.90/5.00
 
 *Stanford Law School*
 
@@ -121,13 +125,13 @@ urlcolor: blue
 
 *Conference Proceedings*
 
-- "One Size Does Not Fit All: The Shortcomings of the Mainstream Data Scientist Working for Social Good" (with Sarah Levine). 2015. *Proceedings of the Bloomberg Data for Good Exchange.* 
+- A. Albright and S. Levine. "One Size Does Not Fit All: The Shortcomings of the Mainstream Data Scientist Working for Social Good." *Proceedings of the Bloomberg Data for Good Exchange.* 2015.
 
 *Popular Writing*
 
-- "We analyzed every *Modern Love* column from the past 10 years. Here's what we learned about love" (with Emma Pierson). 2017. *Quartz.* 
+- A. Albright and E. Pierson. "We analyzed every *Modern Love* column from the past 10 years. Here's what we learned about love." *Quartz.* 2017.
 
-- "Which U.S. State Performs Best in the New Yorker Caption Contest?" (with Bob Mankoff). 2015. *The New Yorker.*
+- A. Albright and B. Mankoff. "Which U.S. State Performs Best in the New Yorker Caption Contest?" *The New Yorker.* 2015.
 
 # Technical Skills 
 
