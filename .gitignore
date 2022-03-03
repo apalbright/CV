@@ -38,7 +38,15 @@ CV.Rproj
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
 
+# files to ignore
+
+svm-latex-resume.tex
+
 # directories to ignore
+
+industry/
+prior-pdfs/
+econ-dept-cv/
 
 examples/
 examples
