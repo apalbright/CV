@@ -5,18 +5,18 @@ output:
     template: svm-latex-cv.tex
 geometry: margin=1in
 
-title: "CV"
+title: "CV *(updated 3/3/22)*"
 author: Alex Albright
 
-jobtitle: "PhD Candidate, Harvard University"
-address: "Littauer Center · 1805 Cambridge Street · Cambridge, MA 02138"
+jobtitle: "PhD Candidate in Economics, Harvard University"
+#address: "Littauer Center · 1805 Cambridge Street · Cambridge, MA 02138"
 #fontawesome: no
 email: apalbright@g.harvard.edu
-web: thelittledataset.com
+web: albrightalex.com
 #github: apalbright
 #twitter: allbriteallday
 #phone: "917-751-1910"
-updated: yes
+#updated: yes
 
 keywords: R Markdown, academic CV, template
 
@@ -39,118 +39,107 @@ urlcolor: blue
 
 # Working Papers
 
+- "No Money Bail No Problems? Evidence from Kentucky's Automatic Release Program"
+
 - "If You Give a Judge a Risk Score"
 
-- "After The Burning: The Economic Effects of the 1921 Tulsa Race Massacre" *(with N. Nunn & J. Feigenbaum)*
+- "After The Burning: The Economic Effects of the 1921 Tulsa Race Massacre" with Jeremy Cook, James Feigenbaum, Laura Kincaide, Jason Long, and Nathan Nunn
 
-- "Uncorking Expert Reviews with Social Media: A Case Study Served with Wine" *(with P. Pedroni & S. Sheppard)*
+- "Uncorking Expert Reviews with Social Media: A Case Study Served with Wine" with Peter Pedroni and Steven Sheppard
 
-# In Preparation
+# Works in Progress
 
-- "Free To Go: The Effects of Eliminating Financial Bail" 
-
-- "Does Bias Training Change Bail Decisions?"
-
-# Conference Talks and Invited Presentations
-
-- *2021*: Vancouver School of Economics Economic History Seminar *(virtual)*
-
-- *2020:* Southern Economic Association (SEA) Annual Conference *(virtual)*, Annual Meeting of the American Law and Economics Association *(accepted; conference canceled)*, Judicial Council of California Research Seminar *(virtual)*, Harvard *Law and Economics Workshop* Guest Speaker 
-
-- *2019:* Eighth Meeting for the Society for the Study of Economic Inequality (Paris School of Economics), Harvard *Gov 1005: Data* Guest Speaker (x2), Harvard *Law and Economics Seminar* Guest Speaker 
-
-- *2015-2018:* `R`-Ladies Invited Talk, American Association of Wine Economists Conference (Cornell University), Enterprise Applications of the `R` Language (EARL) Conference, American Association of Wine Economists Conference (Université de Bordeaux), Oxford University Connected Life Conference, Bloomberg Data for Good Exchange, Strata+Hadoop World Conference
-
-# Professional Activities and Service
-
-*Referee Service*
-
-- Quarterly Journal of Economics, Journal of Urban Economics
-
-*Conferences/Seminars*
-
-- Discussion Lead, NBER Decentralization Conference \hfill 2021
-  - Topic: Mechanism Design for Vulnerable Populations
-
-*Academic Community Service*
-
-- Harvard Grad Women in Economics Member \hfill 2017 - Present
-  - Website Manager & Developer: `harvardgwe.com` \hfill 2018 - 2020 
-  - Treasurer \hfill 2019 - 2020
-- Harvard Economics Peer Mentor \hfill 2017 - 2018
-- MIT INSPIRE Competition Judge \hfill 2017
+- "Does Bias Training Change Judicial Decision Making?"
 
 # Awards, Grants, and Fellowships
 
-- Irving Louis Horowitz Award *(most outstanding project)*, Horowitz Foundation \hfill 2021
+- GSAS Named Fellowship, Harvard University \hfill 2022
+- Irving Louis Horowitz Award (most outstanding project), Horowitz Foundation \hfill 2021
 - Horowitz Foundation Dissertation Prize, Horowitz Foundation \hfill 2021
-- Certificate of Distinction in Teaching, Harvard Bok Center \hfill 2020
-- J-PAL Criminal Justice Reform Proposal Development Grant *(w/ Alley Edlebi)* \hfill 2019 - 2020
+- James M. and Cathleen D. Stone Ph.D. Scholar, Harvard Kennedy School \hfill 2018-22
+- Certificate of Distinction in Teaching (4 times), Harvard Bok Center \hfill 2018-21
 - Law and Economics Fellows Writing Prize, Harvard Law School \hfill 2019
-- Terence M. Considine Fellow in Law and Economics, Harvard Law School \hfill 2018 - 2020 
-- James M. and Cathleen D. Stone Ph.D. Scholar, Harvard Kennedy School \hfill 2018 - 2020
-- Foundations of Human Behavior Initiative Grant *(w/ J. Feigenbaum & N. Nunn)* \hfill 2019 
-- Inequality in America Initiative Grant *(w/ J. Feigenbaum & N. Nunn)* \hfill 2019 
-- Research Grant, Bradley Foundation \hfill 2019
-- Research Scholarship, American Association of Wine Economists \hfill 2018
+- Terence M. Considine Fellow in Law and Economics, Harvard Law School \hfill 2018-21 
+- Foundations of Human Behavior Grant (with James Feigenbaum & Nathan Nunn) \hfill 2019
+- Inequality in America Grant (with James Feigenbaum & Nathan Nunn) \hfill 2019 
 - Christophe Baron Prize, American Association of Wine Economists \hfill 2016
 - Best Lightning Talk Presenter, Oxford University Connected Life Conference \hfill 2015
 - Carl Van Duyne Prize in Economics, Williams College \hfill 2014
-- Phi Beta Kappa, Williams College \hfill 2014
-- Economics Highest Honors, Williams College \hfill 2014
-- Economics Department Class of 1960 Scholar, Williams College \hfill 2013 - 2014
-- National Merit Finalist \hfill 2010
 - Gold Medalist, New York City Math Fair \hfill 2008
 
+<!-- - Research Scholarship, American Association of Wine Economists \hfill 2018 -->
+<!-- - Phi Beta Kappa, Williams College \hfill 2014 -->
+<!-- - Economics Highest Honors, Williams College \hfill 2014 -->
+<!-- - Economics Department Class of 1960 Scholar, Williams College \hfill 2013 - 2014 -->
+<!-- - National Merit Finalist \hfill 2010 -->
+<!-- - Research Grant, Bradley Foundation \hfill 2019 -->
+<!-- - J-PAL Criminal Justice Reform Proposal Development Grant *(w/ Alley Edlebi)* \hfill 2019 - 2020 -->
 <!-- - Summer Research and Travel Award, Harvard University \hfill 2018 -->
 <!-- - Graduate Fellowship, Harvard University \hfill 2016 - Present -->
 
-# Teaching 
+# Professional Activities
 
-*Harvard University*
+*Invited Seminars*
 
-- Teaching Fellow for *Research in Applied Microeconomics & Law and Economics* \hfill 2020 - 2021
-    - Head of undergraduate economics thesis writer seminar
-    - Teaching evaluation mean: 4.86/5.00
+- *2022*: Federal Reserve Bank of Minneapolis, Consumer Financial Protection Bureau, Rutgers Economics, Department of Justice, RAND, Mathematica
 
-- Teaching Fellow for *Research in Social/Labor Economics & Applied Microeconomics* \hfill 2018 - 2019
-    - Head of undergraduate economics thesis writer seminar
-    - Teaching evaluation mean: 4.90/5.00
+- *2018-21*: Vancouver School of Economics, Economics of Crime Online Seminar Series, Judicial Council of California, R-Ladies Boston
 
-*Stanford Law School*
+*Conference Presentations* 
 
-- Teaching Assistant for *Guns, Drugs, Prisons: Empirical Debates in Law and Policy* \hfill  2014 
+- *2021*: NBER Decentralization Conference (virtual; invited discussant), ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (virtual)
 
-# General Audience Publications 
+- *2020:* Southern Economic Association Annual Conference (virtual), Annual Meeting of the American Law and Economics Association (canceled due to Covid-19)
 
-*Conference Proceedings*
+- *2019:* Eighth Meeting for the Society for the Study of Economic Inequality (Paris School of Economics)
 
-- A. Albright and S. Levine. "One Size Does Not Fit All: The Shortcomings of the Mainstream Data Scientist Working for Social Good." *Proceedings of the Bloomberg Data for Good Exchange.* 2015.
+- *2015-18:* American Association of Wine Economists Conference (Cornell University), EARL Conference (Boston), American Association of Wine Economists Conference (Université de Bordeaux), Connected Life Conference (Oxford University), Bloomberg Data for Good Exchange (NYC), Strata+Hadoop World Conference (NYC)
+
+*Invited Guest Lectures*
+
+- *2021*: Professor Louis Kaplow and Steve Shavell's "Law and Economics" Course at Harvard Law (October 14)
+
+- *2019*: Harvard Government Department "Data" Course (April 2 & November 7), Professor Louis Kaplow and Steve Shavell's "Law and Economics" Course at Harvard Law (March 5)
+
+*Press Coverage*
+
+- *2021*: The New York Times, CNN, TIME Magazine, CNBC, NBER Digest, Black Enterprise, The Root, Business Insider, Probable Causation Podcast, Phenomenal World 
+
+- *2019*: WIRED, Axios
+
+# Professional Service
+
+*Events Organized*
+
+- *2020:* "Heterogeneity by Gender: Evidence from JMPs", Harvard Economics (co-organized with Stephanie Kestelman)
+
+*Community Service*
+
+- Founding Member, Harvard Graduate Women in Economics \hfill 2017-21
+- Harvard Economics Peer Mentor \hfill 2017-18
+- Master of Ceremonies, Harvard Economics Holiday Party \hfill 2018 & 2020
+
+*Referee Service*
+
+- *Quarterly Journal of Economics, Journal of Urban Economics*
+
+# Other Publications 
 
 *Popular Writing*
 
-- A. Albright and E. Pierson. "We analyzed every *Modern Love* column from the past 10 years. Here's what we learned about love." *Quartz.* 2017.
+- "We analyzed every *Modern Love* column from the past 10 years. Here's what we learned about love" with Emma Pierson. *Quartz.* 2017.
 
-- A. Albright and B. Mankoff. "Which U.S. State Performs Best in the New Yorker Caption Contest?" *The New Yorker.* 2015.
+- "Which U.S. State Performs Best in the New Yorker Caption Contest?" with Bob Mankoff. *The New Yorker.* 2015.
 
-# Technical Skills 
+*Conference Proceedings*
 
-**`R` for Everything:** 
+- "One Size Does Not Fit All: The Shortcomings of the Mainstream Data Scientist Working for Social Good" with Sarah Levine. *Proceedings of the Bloomberg Data for Good Exchange.* 2015.
 
-- Data preparation (cleaning & wrangling), visualization, descriptive analysis, and econometrics applications with `R` (frequent use of `tidyverse`, `lfe`, `lubridate`, `broom`, & many more)
+# Teaching 
 
-- Reproducible and replicable paper writing with `R Markdown` (\LaTeX wrapper) and slide deck crafting with `xaringan`
+- Undergraduate Thesis Writer Seminar (Harvard Economics), Seminar Leader \hfill 2020-21
 
-- Version control using Git and Github integrated with `Rstudio`
+- Undergraduate Thesis Writer Seminar (Harvard Economics), Seminar Leader \hfill 2018-19
 
-- Website development and management with `R` `blogdown`, Hugo, Netlify (& occasional HTML code)
+- Empirical Debates in Law and Policy (Stanford Law), Teaching Assistant \hfill  2014
 
-**Other (non-`R`) Technical Skills:** 
-
-- `Stata`, Adobe Photoshop 
-
-# Research Assistant (RA) Experience
-
-- Empirical Research Fellow for Professor John Donohue, Stanford Law School \hfill 2014 - 2016 
-- Research Fellow for Professor Yong Suk Lee, Williams College \hfill 2013 
-- Research Assistant for Professor Sarah Jacobson, Williams College \hfill 2013 
