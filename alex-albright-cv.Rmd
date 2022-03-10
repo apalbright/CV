@@ -53,7 +53,7 @@ urlcolor: blue
 
 # Awards, Grants, and Fellowships
 
-- GSAS Named Fellowship, Harvard University \hfill 2022
+- Abrams Family Economics Dissertation Fellowship, Harvard University \hfill 2022
 - Irving Louis Horowitz Award (most outstanding project), Horowitz Foundation \hfill 2021
 - Horowitz Foundation Dissertation Prize, Horowitz Foundation \hfill 2021
 - James M. and Cathleen D. Stone Ph.D. Scholar, Harvard Kennedy School \hfill 2018-22
@@ -127,13 +127,13 @@ urlcolor: blue
 
 *Popular Writing*
 
-- "We analyzed every *Modern Love* column from the past 10 years. Here's what we learned about love" with Emma Pierson. *Quartz.* 2017.
+- "We analyzed every 'Modern Love' column from the past 10 years. Here's what we learned about love" with Emma Pierson. Quartz. 2017.
 
-- "Which U.S. State Performs Best in the New Yorker Caption Contest?" with Bob Mankoff. *The New Yorker.* 2015.
+- "Which U.S. State Performs Best in the New Yorker Caption Contest?" with Bob Mankoff. The New Yorker. 2015.
 
 *Conference Proceedings*
 
-- "One Size Does Not Fit All: The Shortcomings of the Mainstream Data Scientist Working for Social Good" with Sarah Levine. *Proceedings of the Bloomberg Data for Good Exchange.* 2015.
+- "One Size Does Not Fit All: The Shortcomings of the Mainstream Data Scientist Working for Social Good" with Sarah Levine. Proceedings of the Bloomberg Data for Good Exchange. 2015.
 
 # Teaching 
 
