@@ -5,7 +5,7 @@ output:
     template: svm-latex-cv.tex
 geometry: margin=1in
 
-title: "CV *(updated 3/3/22)*"
+title: "CV"
 author: Alex Albright
 
 jobtitle: "PhD Candidate in Economics, Harvard University"
@@ -16,7 +16,7 @@ web: albrightalex.com
 #github: apalbright
 #twitter: allbriteallday
 #phone: "917-751-1910"
-#updated: yes
+updated: yes
 
 keywords: R Markdown, academic CV, template
 
@@ -30,7 +30,9 @@ urlcolor: blue
 # Education
 
 - Ph.D. Economics, Harvard University \hfill Expected May 2022
+
 - A.M. Economics, Harvard University  \hfill May 2019
+
 - B.A. Mathematics & Economics (Highest Honors), Williams College \hfill June 2014
 
 # Research Interests
@@ -46,10 +48,6 @@ urlcolor: blue
 - "After The Burning: The Economic Effects of the 1921 Tulsa Race Massacre" with Jeremy Cook, James Feigenbaum, Laura Kincaide, Jason Long, and Nathan Nunn
 
 - "Uncorking Expert Reviews with Social Media: A Case Study Served with Wine" with Peter Pedroni and Steven Sheppard
-
-# Works in Progress
-
-- "Does Bias Training Change Judicial Decision Making?"
 
 # Awards, Grants, and Fellowships
 
@@ -81,7 +79,7 @@ urlcolor: blue
 
 *Invited Seminars*
 
-- *2022*: Federal Reserve Bank of Minneapolis, Consumer Financial Protection Bureau, Rutgers Economics, Department of Justice, RAND, Mathematica
+- *2022 (incl. scheduled)*: London School of Economics, Federal Reserve Bank of Minneapolis, Consumer Financial Protection Bureau, Rutgers Economics, Department of Justice, RAND, Mathematica
 
 - *2018-21*: Vancouver School of Economics, Economics of Crime Online Seminar Series, Judicial Council of California, R-Ladies Boston
 
@@ -109,6 +107,10 @@ urlcolor: blue
 
 # Professional Service
 
+*Referee Service*
+
+- *Quarterly Journal of Economics, Journal of Urban Economics*, *Review of Economics and Statistics*
+
 *Events Organized*
 
 - *2020:* "Heterogeneity by Gender: Evidence from JMPs", Harvard Economics (co-organized with Stephanie Kestelman)
@@ -116,12 +118,9 @@ urlcolor: blue
 *Community Service*
 
 - Founding Member, Harvard Graduate Women in Economics \hfill 2017-21
-- Harvard Economics Peer Mentor \hfill 2017-18
 - Master of Ceremonies, Harvard Economics Holiday Party \hfill 2018 & 2020
 
-*Referee Service*
-
-- *Quarterly Journal of Economics, Journal of Urban Economics*
+<!-- - Harvard Economics Peer Mentor \hfill 2017-18 -->
 
 # Other Publications 
 
@@ -142,4 +141,3 @@ urlcolor: blue
 - Undergraduate Thesis Writer Seminar (Harvard Economics), Seminar Leader \hfill 2018-19
 
 - Empirical Debates in Law and Policy (Stanford Law), Teaching Assistant \hfill  2014
-
