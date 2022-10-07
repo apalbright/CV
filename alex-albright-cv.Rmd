@@ -10,11 +10,10 @@ author: Alex Albright
 #jobtitle: "Federal Reserve Bank of Minneapolis"
 #address: "Federal Reserve Bank of Minneapolis, 90 Hennepin Ave, Minneapolis, MN 55401"
 #fontawesome: no
-email: alex.pillette.albright@gmail.com
+email: alex@albrightalex.com
 web: albrightalex.com
 #github: apalbright
 #twitter: allbriteallday
-#phone: "917-751-1910"
 #updated: no
 
 keywords: R Markdown, academic CV, template
