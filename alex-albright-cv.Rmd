@@ -5,16 +5,16 @@ output:
     template: svm-latex-cv.tex
 geometry: margin=1in
 
-title: "CV *(Updated 10/5/22)*"
+title: "CV"
 author: Alex Albright
 #jobtitle: "Federal Reserve Bank of Minneapolis"
 #address: "Federal Reserve Bank of Minneapolis, 90 Hennepin Ave, Minneapolis, MN 55401"
 #fontawesome: no
-email: alex@albrightalex.com
 web: albrightalex.com
+email: alex@albrightalex.com
 #github: apalbright
 #twitter: allbriteallday
-#updated: no
+updated: yes
 
 keywords: R Markdown, academic CV, template
 
@@ -42,7 +42,7 @@ Opportunity and Inclusive Growth Institute
 
 - "No Money Bail No Problems? Evidence from Kentucky's Automatic Release Program"
 
-- "If You Give a Judge a Risk Score"
+- "The Hidden Effects of Algorithmic Recommendations"
 
 - "After The Burning: The Economic Effects of the 1921 Tulsa Race Massacre" *(with Jeremy Cook, James Feigenbaum, Laura Kincaide, Jason Long, and Nathan Nunn)*
 
@@ -81,51 +81,84 @@ Opportunity and Inclusive Growth Institute
 
 # Professional Activities
 
-## Invited Seminars and Conference Presentations
+## Invited Seminars
 
-- *2022*: Louisiana State University Economics (scheduled), NBER Crime Summer Institute, London School of Economics, Federal Reserve Bank of Minneapolis, Consumer Financial Protection Bureau, Rutgers Economics, Department of Justice, RAND, Mathematica
+- *2023 (including scheduled)*: Williams College, St. Olaf College, Clemson University, São Paulo School of Economis from Fundação Getulio Vargas (FGV-SP), Pontifical Catholic University of Rio de Janeiro (PUC-Rio), Insper (São Paulo)
 
-- *2021*: Vancouver School of Economics, NBER Decentralization Conference (virtual; invited discussant), ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (virtual)
+- *2022*: Louisiana State University, Macalester College, London School of Economics, Federal Reserve Bank of Minneapolis, Consumer Financial Protection Bureau, Rutgers University, Department of Justice, RAND, Mathematica
 
-- *2020*: Southern Economic Association Annual Conference (virtual), Annual Meeting of the American Law and Economics Association (canceled due to Covid-19), Economics of Crime Online Seminar Series, Judicial Council of California
+- *2021*: Vancouver School of Economics
+
+- *2020*: Economics of Crime Online Seminar Series
+
+## Conference Presentations
+
+- *2023 (including scheduled)*: Texas Economics of Crime Workshop *(discussant)* (UT Austin), Workshop on the Economics of Crime for Junior Scholars (Northeastern), Women in Federal Reserve System Economic Research Conference (Kansas City Fed), Society of Labor Economists’ Annual Meeting (SOLE), Women in Empirical Microeconomics Conference (University of Chicago)
+
+- *2022*: NBER Summer Institute (Crime Session)
+
+- *2021*: NBER Decentralization Conference *(discussant)*, ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO), Workshop on the Economics of Crime for Junior Scholars 
+
+- *2020*: Southern Economic Association Annual Conference (SEA), Annual Meeting of the American Law and Economics Association (ALEA) *(canceled due to Covid-19)*
 
 - *2019:* Eighth Meeting for the Society for the Study of Economic Inequality (Paris School of Economics)
 
-- *2018*: R-Ladies Boston, American Association of Wine Economists Conference (Cornell University), EARL Conference (Boston)
-
-- *2016:* American Association of Wine Economists Conference (Université de Bordeaux)
-
-- *2015:* Connected Life Conference (Oxford University), Bloomberg Data for Good Exchange (NYC), Strata+Hadoop World Conference (NYC)
+- *2015-18:* American Association of Wine Economists Conference (Cornell University), American Association of Wine Economists Conference (Université de Bordeaux), Connected Life Conference (Oxford University)
 
 ## Invited Guest Lectures
 
-- *2021*: Professor Louis Kaplow and Steve Shavell's "Law and Economics" Course at Harvard Law (October 14)
+- *2023*: Dr. Shawn Bushway's "Economics of Crime" Winter Study Course at Williams College, Professor Sebastian Tello-Trillo's "Causal Inference" Course at University of Virginia
 
-- *2019*: Harvard Government Department "Data" Course (April 2 & November 7), Professor Louis Kaplow and Steve Shavell's "Law and Economics" Course at Harvard Law (March 5)
+- *2022*: Professor Amanda Agan's "Evidence-Based Crime Policy" Course at Rutgers University 
 
-## Press Coverage and Podcast Interviews
+- *2021*: Professor Louis Kaplow and Steve Shavell's "Law and Economics" Course at Harvard Law 
 
-- *2022*: Probable Causation Podcast
+- *2019*: Harvard Government Department's "Data" Course (2 times), Professor Louis Kaplow and Steve Shavell's "Law and Economics" Course at Harvard Law 
 
-- *2021*: The New York Times, CNN, TIME Magazine, CNBC, NBER Digest, Black Enterprise, The Root, Business Insider, Probable Causation Podcast, Phenomenal World 
+## Press Coverage
+
+- *2021*: The New York Times, CNN, TIME Magazine, CNBC, NBER Digest, Black Enterprise, The Root, Business Insider
 
 - *2019*: WIRED, Axios
+
+## Policy Talks
+
+- *2022*: Niskanen Center Webinar Series on Prosecution Reform (2 times)
+
+- *2020*: Judicial Council of California Seminar
+
+## Podcast Interviews
+
+- *2022*: Probable Causation (host: Jennifer Doleac)
 
 # Professional Service
 
 ## Referee Service
 
-- *Quarterly Journal of Economics, Journal of Urban Economics*, *Review of Economics and Statistics*, *Journal of Empirical Legal Studies*
+- *Quarterly Journal of Economics, Review of Economics and Statistics, Journal of Urban Economics, Journal of Policy Analysis and Management, Journal of Empirical Legal Studies, Review of Economics and Statistics: Short Papers, Journal of Urban Economics: Insights*
 
-## Events Organized and Community Service
+## Conference and Seminar Service
 
-- *2020:* "Heterogeneity by Gender: Evidence from Job Market Papers", Harvard Economics (co-organized with Stephanie Kestelman)
+- Program Committee Member, FAccT  \hfill 2023
+- (ACM Conference on Fairness, Accountability and Transparency) 
+-
+- Co-Organizer, "Heterogeneity by Gender: Evidence from Job Market Papers" \hfill 2020
+- (with Stephanie Kestelman; Harvard Economics Seminar Event) 
 
-- *2017-21:* Founding Member, Harvard Graduate Women in Economics
 
-- *2018 & 2020:* Master of Ceremonies, Harvard Economics Holiday Party 
+## Community Service
 
-- *2017-2018:* Peer Mentor, Harvard Economics Department
+- Panelist, UBC Women in Economics Job Market Event \hfill 2022
+- Founding Member, Harvard Graduate Women in Economics \hfill 2017-21
+- Master of Ceremonies, Harvard Economics Holiday Party \hfill 2018 & 2020
+- Invited Speaker, R-Ladies Boston \hfill 2018
+- Peer Mentor, Harvard Economics Department \hfill 2017-18
+
+# Teaching 
+
+- *Seminar Leader*, Undergraduate Thesis Writer Seminar, Harvard Economics \hfill 2020-21
+- *Seminar Leader*, Undergraduate Thesis Writer Seminar, Harvard Economics \hfill 2018-19
+- *Teaching Assistant*, Empirical Debates in Law and Policy, Stanford Law School \hfill  2014
 
 # Publications Outside Economics
 
@@ -137,10 +170,4 @@ Opportunity and Inclusive Growth Institute
 
 ## Conference Proceedings
 
-- "One Size Does Not Fit All: The Shortcomings of the Mainstream Data Scientist Working for Social Good" with Sarah Levine. Proceedings of the Bloomberg Data for Good Exchange. 2015.
-
-# Teaching 
-
-- *Seminar Leader*, Undergraduate Thesis Writer Seminar, Harvard Economics \hfill 2020-21
-- *Seminar Leader*, Undergraduate Thesis Writer Seminar, Harvard Economics \hfill 2018-19
-- *Teaching Assistant*, Empirical Debates in Law and Policy, Stanford Law School \hfill  2014
+- "One Size Does Not Fit All: The Shortcomings of the Mainstream Data Scientist Working for Social Good" (with Sarah Levine). Proceedings of the Bloomberg Data for Good Exchange. 2015.
